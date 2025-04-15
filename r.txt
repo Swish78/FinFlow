@@ -1,0 +1,12 @@
+Django
+django-htmx
+django-template-partials
+crewai
+celery
+redis
+psycopg2-binary
+django-bootstrap5
+gunicorn
+whitenoise
+django-environ
+Pillow
