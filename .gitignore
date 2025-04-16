@@ -1,0 +1,13 @@
+Django Accounting App Documentation.markdown
+
+DS_Store
+
+# Virtual Environment
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
